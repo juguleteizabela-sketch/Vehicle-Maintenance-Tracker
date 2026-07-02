@@ -24,3 +24,9 @@
    * Go to the **Import** tab and upload the `BazaDeDateMasini.sql` file included in this project.
 4. **Configuration:** * Check your database connection file (e.g., `config.php` or `db_connect.php`) and make sure the credentials match your WAMP setup. The default username is usually `root` with no password.
 5. **Run the Application:** * Open your browser and go to `http://localhost/your_project_folder_name/login.php`.
+
+## 📄 Documentation Note
+
+Please note that the comprehensive technical documentation file (`Documentatie_Fisa_Auto_de_Bord_Final.docx`) is written in **Romanian**. 
+
+**Role:** This document was developed as part of an academic project for the National University of Science and Technology POLITEHNICA Bucharest[cite: 2]. It serves as an in-depth technical guide, detailing the theoretical foundations, complete database schema, security implementations, and the architectural workflow of each module[cite: 2].
