@@ -29,4 +29,4 @@
 
 Please note that the comprehensive technical documentation file (`Documentatie_Fisa_Auto_de_Bord_Final.docx`) is written in **Romanian**. 
 
-**Role:** This document was developed as part of an academic project for the National University of Science and Technology POLITEHNICA Bucharest[cite: 2]. It serves as an in-depth technical guide, detailing the theoretical foundations, complete database schema, security implementations, and the architectural workflow of each module[cite: 2].
+**Role:** This document was developed as part of an academic project for the National University of Science and Technology POLITEHNICA Bucharest. It serves as an in-depth technical guide, detailing the theoretical foundations, complete database schema, security implementations, and the architectural workflow of each module.
